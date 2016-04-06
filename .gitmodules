@@ -1,0 +1,9 @@
+[submodule "Comp1"]
+	path = Comp1
+	url = git@github.com:tijeff/DemoSubComp1.git
+[submodule "Comp2"]
+	path = Comp2
+	url = git@github.com:tijeff/DemoSubComp2.git
+[submodule "Comp3"]
+	path = Comp3
+	url = git@github.com:tijeff/DemoSubComp3.git
